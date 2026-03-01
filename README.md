@@ -1,2 +1,2 @@
-# Juno-s-Dem0
+# Juno-s-Demo
 This is my first Git repository
